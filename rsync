@@ -1,0 +1,1 @@
+rsync -a --info=progress2 dir1/file_1.txt dir2/
